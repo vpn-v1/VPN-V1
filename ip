@@ -1,3 +1,4 @@
+<h1>ddd</h1>
 <?php 
 //affiche l'adresse IP 
 echo '<p> Voici Votre IP ' . $_SERVER['REMOTE_ADDR'] . ' </p>'; 
